@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋をしよう",
+  "base_artist": "Hump Back",
+  "createdAt": "2025-12-03T23:33:10.675332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋をしよう",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/01_恋をしよう_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋をしよう - Koi wo Shiyou",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/02_恋をしよう_-_Koi_wo_Shiyou_Hump_Back.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋をしよう",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/03_恋をしよう_Hump_Back.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋をしよう",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/04_恋をしよう_Hump_Back.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋をしよう",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_恋をしよう_Hump_Back.txt"
+    }
+  ]
+}
